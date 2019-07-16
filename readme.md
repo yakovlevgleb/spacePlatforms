@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/yakovlevgleb/spacePlatforms.svg)](https://greenkeeper.io/)
+
 <h1>OptimizedHTML - Start HTML Template</h1>
 
 <p>
